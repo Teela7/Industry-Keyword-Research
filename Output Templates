@@ -1,0 +1,169 @@
+Prompt 1: Explain The Method
+Use this when the user asks:
+请问你听说麦肯锡公司快速了解行业的方法吗？就是通过搞懂100个关键词来了解一个行业。我是一个小白，你能帮我具体介绍一下吗？
+
+Recommended structure:
+## 一句话解释
+通过搞懂一个行业最关键的100个词，你不是在背概念，而是在快速搭建这个行业的地图。
+
+## 这个方法为什么有效
+...
+
+## 100个关键词应该覆盖什么
+1. 基础概念
+2. 产业链角色
+3. 核心技术/产品
+4. 商业模式
+5. 用户与场景
+6. 竞争格局
+7. 监管与风险
+8. 未来趋势
+
+## 小白怎么用
+...
+Prompt 2: Generate 100 Keywords
+Use this when the user asks:
+我想了解最近比较火的ChatGPT，根据各项调查、行业报告、新闻、研究论文，帮我整理出关于ChatGPT的100个关键词，同时根据关键词关联性的强弱分为5-8个类别。
+
+Recommended structure:
+## 研究口径
+- 主题：
+- 地域：
+- 时间范围：
+- 资料类型：
+- 重要说明：
+
+## 100关键词总览
+| 类别 | 关联强度 | 关键词 | 一句话定义 | 为什么重要 |
+|---|---|---|---|---|
+
+## 类别之间的关系
+...
+
+## 初学者优先掌握的20个词
+...
+Rules:
+Produce exactly 100 keyword rows.
+Use 5-8 categories.
+Use one sentence per keyword definition.
+Put the strongest/core terms first inside each category.
+Cite current sources when the topic is recent.
+Prompt 3: Define The 100 Keywords
+Use this when the user asks:
+请帮我用一句话概述或者定义你帮我整理的这100个关键词，请注意是这100个关键词。
+
+Recommended response:
+First provide a collective thesis sentence:
+这100个关键词共同说明：...
+Then provide a table defining each keyword in one sentence.
+Template:
+## 一句话总定义
+这100个关键词共同说明：...
+
+## 100个关键词的一句话定义
+| 序号 | 关键词 | 一句话定义 |
+|---:|---|---|
+If the user already has a 100-keyword list, do not invent a new list. Define the existing list.
+Prompt 4: Creators, Experts, And Interview Topics
+Use this when the user asks:
+问题1：目前这个领域的头部达人有哪些？
+问题2：如果我要深入了解这个行业，我应该和这个领域的专家聊什么话题，他才会比较感兴趣？
+
+Recommended structure:
+## 头部人物/账号地图
+| 类型 | 人/账号 | 平台/机构 | 代表性原因 | 适合学习什么 |
+|---|---|---|---|---|
+
+## 专家真正感兴趣的话题
+| 话题 | 为什么专家会感兴趣 | 可以怎么问 |
+|---|---|---|
+
+## 不建议问的泛泛问题
+...
+Rules:
+For current "top" people, browse and verify.
+Include multiple types: researchers, founders, operators, investors, analysts, creators,
+community builders, and policy voices.
+Avoid claiming someone is "top" without a reason.
+Project Direction Template
+## 一句话机会判断
+...
+
+## 可做方向
+| 方向 | 判断 | 目标用户 | 证据 | 风险 | 首个验证动作 |
+|---|---|---|---|---|---|
+
+## 推荐方向
+...
+
+## 倒推执行方案
+| 时间 | 目标 | 动作 | 验证指标 | 停止/转向条件 |
+|---|---|---|---|---|
+| 7天 |  |  |  |  |
+| 30天 |  |  |  |  |
+| 60天 |  |  |  |  |
+| 90天 |  |  |  |  |
+Industry Research Report Template
+Use this when the user asks for a full industry research report or market-entry assessment.
+## $0 The Answer
+一句话结论：...
+
+### 三到四个支柱判断
+1. ...
+2. ...
+3. ...
+
+## SCQA
+- 情境：
+- 冲突：
+- 问题：
+- 答案：
+
+## Day-1 假设与更新
+| 项目 | 内容 |
+|---|---|
+| Day-1 Answer |  |
+| 被验证的部分 |  |
+| 被推翻的部分 |  |
+| 当前结论 |  |
+
+## 100关键词行业地图
+| 类别 | 关联强度 | 关键词 | 一句话定义 | 为什么重要 | 来源 |
+|---|---|---|---|---|---|
+
+## 市场规模与经济性
+| 指标 | 公式 | 输入 | 结果 | 来源/假设 | 验证状态 |
+|---|---|---|---|---|---|
+
+## 竞争格局
+| 玩家/方案 | 价格 | 分发 | 产品深度 | 工作流占有 | 数据/信任 | 结论 |
+|---|---|---|---|---|---|---|
+
+## 项目方向与执行倒推
+| 方向 | 判断 | 证据 | 风险 | 首个验证动作 | Kill Gate |
+|---|---|---|---|---|---|
+
+## Source Bar
+| ID | Tier | 来源 | 日期 | 用途 | 链接 |
+|---|---|---|---|---|---|
+
+## 验证记录
+| 检查项 | 状态 | 问题 | 修正 |
+|---|---|---|---|
+Decision Page Template
+Use this for one-page decision exhibits.
+## 结论标题
+...
+
+| Step | Operation | Result | Source / basis |
+|---|---|---|---|
+|  |  |  |  |
+
+### Key assumptions and judgment calls
+- ...
+
+### So what
+...
+
+### Read
+...
