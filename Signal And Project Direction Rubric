@@ -1,0 +1,86 @@
+Signal Layers
+Use multiple signal layers before making a trend judgment.
+Market-expectation signals: stock price moves, ETF flows, valuation multiple changes, earnings
+reactions, short interest, sector rotation, and relative strength.
+Company-action signals: hiring, capex, M&A, product launches, pricing changes, partnerships,
+channel expansion, and supply commitments.
+Fundamental signals: revenue growth, margin change, retention, usage, backlog, inventory,
+customer concentration, and guidance.
+Policy/regulatory signals: new rules, enforcement posture, subsidies, export controls, data
+regulation, procurement, and standards.
+Technology signals: model capability, cost curves, benchmarks, tooling maturity, developer
+adoption, infrastructure bottlenecks, and patent/paper velocity.
+Demand signals: search volume, community discussion, procurement language, user complaints,
+workflow adoption, willingness to pay, and budget owner behavior.
+Narrative signals: what investors, media, founders, and creators keep repeating; useful but
+lower quality unless confirmed by behavior or numbers.
+Stock Signal Rules
+Treat stocks as early expectation sensors, not truth machines.
+A stock move may indicate that the market is repricing future demand, margin, competitive
+position, or regulatory risk.
+A single stock move is weak evidence. Seek confirmation from earnings calls, sector peers,
+customer behavior, supply chain data, or product adoption.
+Distinguish broad market beta from industry-specific alpha.
+Compare leaders, suppliers, customers, and substitutes; the location of outperformance can
+reveal where the market thinks value will accrue.
+Never provide buy/sell instructions, target prices, or personalized financial advice.
+Trend Score
+Score each dimension from 1 to 5.
+Evidence quality: Are there primary sources and multiple confirming signals?
+Trend strength: Is the underlying change structural or only narrative?
+Timing: Is the opportunity actionable now, too early, or already crowded?
+Economic gravity: Does the trend change revenue, cost, margin, productivity, or risk?
+Adoption pull: Are real users changing behavior or paying?
+Bottleneck clarity: Is the key constraint visible enough to build around?
+Competitive intensity: Is the space open, fragmented, or already locked by incumbents?
+Execution fit: Can the user plausibly act with their resources and advantages?
+Downside risk: What could invalidate the thesis?
+Traceability: Can the key facts and calculations be traced to sources or explicit assumptions?
+Decision usefulness: Would the finding change a project, product, investment, or market-entry
+decision?
+Interpretation:
+42-55: strong candidate for action, if verification passes.
+34-41: promising but needs a narrow validation experiment.
+25-33: watchlist or research-only.
+Below 25: likely noise, too early, or poor fit.
+Market Sizing And Economics
+Use bottom-up sizing whenever the output may guide a real decision.
+Minimum formulas:
+TAM = total relevant customers or units x annual spend per customer or unit.
+SAM = reachable segment x realistic price or usage.
+SOM = adoption path x conversion x price x retention or usage frequency.
+Gross profit = revenue x gross margin.
+Payback = CAC or setup cost / monthly gross profit contribution.
+Rules:
+Keep units visible in every row.
+State the base year and forecast year.
+Use top-down market numbers only as a consistency check.
+Highlight the answer row and show the assumptions behind it.
+If the model depends on a conversion rate, pressure-test it with low/base/high cases.
+Competitive Landscape
+Use a heatmap when comparing players. Capabilities should reflect the buying decision, not generic
+feature lists.
+Useful dimensions:
+price band;
+distribution strength;
+product depth;
+workflow ownership;
+data advantage;
+switching cost;
+compliance or trust;
+ecosystem;
+margin structure;
+likely reaction if the proposed entrant succeeds.
+Good/Better/Best is useful when the market has tiers. Define tiers by customer tradeoff, not by
+marketing language.
+Project Direction Output
+For each project direction, include:
+Thesis: What belief must be true?
+User pain: Who urgently needs this?
+Evidence: Which signals support it?
+Contradictions: What argues against it?
+First wedge: What small version can be tested quickly?
+7-day action: What to do immediately.
+30/60/90-day plan: How to validate, build, distribute, and decide.
+Kill criteria: What result would make you stop or pivot.
+Watch indicators: What market/company/user signals to monitor next.
