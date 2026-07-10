@@ -1,4 +1,4 @@
-# Industry-Keyword-Research 行业关键词调研体系（Github README 标准格式化完整版）
+# Industry-Keyword-Research 行业关键词调研体系
 <div align="center">
 
 # Industry-Keyword-Research 📊
